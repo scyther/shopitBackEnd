@@ -1,4 +1,7 @@
-# Back-End for Shopping website
+# REST API for Shopping website
+
+## Live REST API:
+https://shopitchirag.herokuapp.com/api
 
 ## Tech Used:
 
