@@ -13,6 +13,7 @@ https://shopitchirag.herokuapp.com/api
 
 - SignIn and Signup routes
 - Display, create and update products
+- create and Manage Orders
 
 ## Scripts:
 
